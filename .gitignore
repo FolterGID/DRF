@@ -1,0 +1,12 @@
+env
+
+__pycache__
+__pycache__/
+
+.DS_Store
+.DS_Store?
+
+migrations
+migrations/
+
+db.sqlite3
